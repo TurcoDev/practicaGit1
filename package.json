@@ -1,0 +1,16 @@
+{
+  "name": "05-funciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funciones.js",
+  "scripts": {
+    "lvl3": "node ejercicio1LVL3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
